@@ -7,8 +7,8 @@
     "test": "jest",
     "lint:std": "npx standard --fix"
   },
-  "standard.options":{
-    "envs": ["jest"]
+  "standard":{
+    "env": ["jest"]
   },
   "keywords": [],
   "author": "",
